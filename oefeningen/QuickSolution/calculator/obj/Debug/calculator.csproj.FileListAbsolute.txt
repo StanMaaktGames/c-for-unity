@@ -1,0 +1,8 @@
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\calculator\bin\Debug\calculator.exe.config
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\calculator\bin\Debug\calculator.exe
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\calculator\bin\Debug\calculator.pdb
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\calculator\obj\Debug\calculator.exe
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\calculator\obj\Debug\calculator.pdb

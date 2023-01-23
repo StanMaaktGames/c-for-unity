@@ -1,0 +1,8 @@
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\QuickDate\bin\Debug\QuickDate.exe.config
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\QuickDate\bin\Debug\QuickDate.exe
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\QuickDate\bin\Debug\QuickDate.pdb
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\QuickDate\obj\Debug\favorieteComputerspel.csproj.AssemblyReference.cache
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\QuickDate\obj\Debug\favorieteComputerspel.csproj.SuggestedBindingRedirects.cache
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\QuickDate\obj\Debug\favorieteComputerspel.csproj.CoreCompileInputs.cache
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\QuickDate\obj\Debug\QuickDate.exe
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\QuickDate\obj\Debug\QuickDate.pdb

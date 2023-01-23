@@ -1,0 +1,8 @@
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\boodschappen\bin\Debug\boodschappen.exe.config
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\boodschappen\bin\Debug\boodschappen.exe
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\boodschappen\bin\Debug\boodschappen.pdb
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\boodschappen\obj\Debug\boodschappen.csproj.AssemblyReference.cache
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\boodschappen\obj\Debug\boodschappen.csproj.SuggestedBindingRedirects.cache
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\boodschappen\obj\Debug\boodschappen.csproj.CoreCompileInputs.cache
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\boodschappen\obj\Debug\boodschappen.exe
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\boodschappen\obj\Debug\boodschappen.pdb

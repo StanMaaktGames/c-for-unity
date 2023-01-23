@@ -1,0 +1,8 @@
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\mobiel\bin\Debug\mobiel.exe.config
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\mobiel\bin\Debug\mobiel.exe
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\mobiel\bin\Debug\mobiel.pdb
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\mobiel\obj\Debug\mobiel.csproj.AssemblyReference.cache
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\mobiel\obj\Debug\mobiel.csproj.SuggestedBindingRedirects.cache
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\mobiel\obj\Debug\mobiel.csproj.CoreCompileInputs.cache
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\mobiel\obj\Debug\mobiel.exe
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\mobiel\obj\Debug\mobiel.pdb

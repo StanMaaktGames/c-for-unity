@@ -1,0 +1,8 @@
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\guessGame\obj\Debug\guessGame.csproj.AssemblyReference.cache
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\guessGame\obj\Debug\guessGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\guessGame\obj\Debug\guessGame.csproj.CoreCompileInputs.cache
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\guessGame\bin\Debug\guessGame.exe.config
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\guessGame\bin\Debug\guessGame.exe
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\guessGame\bin\Debug\guessGame.pdb
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\guessGame\obj\Debug\guessGame.exe
+C:\Users\stanm\OneDrive\Bureaublad\school\coderclass\c# voor unity-0\oefeningen\QuickSolution\guessGame\obj\Debug\guessGame.pdb
